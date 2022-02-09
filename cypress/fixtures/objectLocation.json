@@ -1,0 +1,23 @@
+{
+    "productName": " //h4[@class='card-title']/a[text()='HTC One M9']",
+    "addCart":"//a[text()='Add to cart']",
+    "enterName":"//input[@id='name']",
+    "country":"//input[@id='country']",
+    "entercity":"//input[@id='city']",
+    "card":"//input[@id='card']",
+    "month":"//input[@id='month']",
+    "year":"//input[@id='year']",
+    "purchase":"//button[text()='Purchase']",
+    "placeOrder" :"//button[text()='Place Order']",
+    "cartButton":"#cartur",
+    "price":"//*[@id='tbodyid']/tr/td[3]",
+    "verifyProduct" :"#tbodyid tr:first-of-type>td:nth-of-type(2)",
+    "Ok":"button[class='confirm btn btn-lg btn-primary']",
+    "Close":"",
+    "loginbtn":"//button[text()='Log in']",
+    "Login":"//a[text()='Log in']",
+    "username":"#loginusername",
+    "password":"#loginpassword",
+    "success":"//h2[text()='Thank you for your purchase!']",
+    "logout":"'#logout2'"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "cypress-practise",
+  "version": "1.0.0",
+  "description": "This is just learning",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "purnima burnwal",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.4.1",
+    "cypress-xpath": "^1.6.2"
+  }
+}
